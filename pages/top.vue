@@ -20,7 +20,7 @@
         <p>
           比賽的縮寫可參考
           <a to="http://aoetw.com/history">歷年比賽結果</a>，2v2
-          的縮寫以「地圖D年份」表示
+          的縮寫以「地圖D年份」表示 t
         </p>
       </div>
       <div class="row" style="margin-top: 10px;border-top: 1px solid #c7c7c7;">
